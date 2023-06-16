@@ -1,4 +1,4 @@
-# cursopython
+# Curso Python
 ## Ejercicios de lenguaje Python, propiedad de Javier Navarro:
 
 __Día 1:__
