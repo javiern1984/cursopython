@@ -42,3 +42,11 @@ Los ejercicios consisten en Series y Funciones.
 __Javi M4 - 05 - Funciones -__ Ejercicios basados en funciones
 
 __Javi M4 - 09 - Series -__ Ejercicios basados en series
+
+__Día 5:__ 
+Carpeta creada con ejercicios del día 16/06/2023:
+
+Esa carpeta contiene 1 archivo con ejercicios de lenguaje Python, realizados el día citado.
+Los ejercicios consisten en Series y bucles.
+
+__Javi Ejercicios Repaso Python__ Ejercicios basados en Series y Bucles
